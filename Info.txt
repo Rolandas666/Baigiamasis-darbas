@@ -1,0 +1,12 @@
+Paleidimas:
+1. composer install
+2. wsl
+3. ./vendor/bin/sail up -d
+4. ./vendor/bin/sail bash
+5. php artisan migrate:fresh 
+
+Administratoriaus elektroninis pastas: admin@email.com  
+Slaptažodis: 123456
+
+Vartotojo elektroninis pastas: user@email.com
+Slaptažodis: 123456
